@@ -1,0 +1,30 @@
+https://networkspotin.blogspot.com/2020/12/help-command-in-linux.html
+
+HELP Command in Linux
+- December 18, 2020
+Help Command
+Help command is a functionality in Linux that helps you to understand how a specific command can be used. Help can be used in 2 different syntax ways
+Syntax Type1:
+Command: help <parameter>
+
+Fig1: unable to find the output of ls using help command (ls is the executable command)
+
+Fig2: Here, we can find the output of help command using help cd (shell in-built commands)
+
+Syntax Type 2:
+Command: <parameter> --help
+
+Fig3 (Executable command) and Fig 4(shell inbuilt command), both shows the output using the syntax 2 help command.
+
+Fig3:
+
+
+Fig4:
+In short,
+Command: <parameter> --help 
+            This command will provide you the information for both Executable and Shell in-built commands.
+Command: help  <parameter> 
+            This command will provide you the information for only Shell in-built commands and not for Executable commands.
+            
+            
+https://networkspotin.blogspot.com/2020/12/help-command-in-linux.html
