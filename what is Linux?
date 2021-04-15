@@ -1,0 +1,27 @@
+What is Linux?
+
+        A Linux Distribution is an Operating System made from a software collection that is based upon the Linux kernel and package management system
+ Linux is not made by single company like Microsoft, Apple. It is build of many distributors to form a single Linux OS.
+
+Linux OS mainly comprises of:
+        *Linux kernel
+        *GNU shell Utilities
+        *Graphical desktop environment and so on.
+--->Linux Kernel --> Core of the Linux to all distributions and provides an interface between the hardware, software and users.
+
+--->GNU shell Utilities --> Terminal interface and the commands we use.
+
+--->All these components are open source and from which they makeup a specific Linux OS (Red hat, Ubuntu, Kali, ....)
+
+Most commonly used Linux Operating systems are Ubuntu, Kali, Red hat,
+
+Ubuntu and Kali are Free Operating systems that can used at no cost. 
+
+But Red hat is a paid Operating System. We do have an alternate OS to Red hat that is totally free to use. Cent-OS is an alternate to Red hat OS
+
+Who can use Linux:
+
+Developers / Programmers/ Hackers/ Administrators
+Who cannot use Linux:
+
+Photo/Video Editors/ Photo/Video Designers
