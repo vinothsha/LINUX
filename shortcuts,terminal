@@ -1,0 +1,39 @@
+Shortcut keys in Linux Terminal
+Similar to other operating systems, Linux also has a shortcut keys to perform certain operations.
+Here, we are going to see about basic Linux shortcut keys that are used in Linux Terminal.
+CTRL + L --> Clears the current Terminal session. Similar to executing the "clear" command.
+
+CTRL + D --> Exits the current Terminal session. Similar to executing the "exit" command.
+
+CTRL + U --> Clear the current line. Similar to executing the backspace key.
+
+CTRL + A --> Moves to the Beginning of the line.
+
+CTRL + E --> Moves to the End of the Line.
+
+CTRL + C --> Terminates the current running process.
+
+ CTRL + Z --> To Pause the running process.
+
+CTRL + ALT + T --> Open a new Terminal Window.
+
+CTRL + Shift + T --> Open a new Tab in the current Terminal Window
+
+CTRL + Shift +  W --> To close the Current Terminal Tab.
+
+CTRL + Shift +  Q --> To close the Current Terminal Window.
+
+
+
+Terminal, Shell and Console of Linux
+- December 19, 2020
+What is Terminal?
+Terminal Emulator (generally referred as Terminal) basically allows you to access the system through the shell. In general, we can also refer as an application that is used to access the shell of the device.
+Default Terminal is gnome terminal for Ubuntu. Other Terminal applications are Terminator, xterm, and so on... 
+What is shell?
+Shell is a program that takes the input from the user and check whether the syntax executed is correct. If the syntax is correct, it will forward the info to the Linux kernel and from the kernel it will be processed and the output will be displayed.
+Default shell for Ubuntu is Bash. Other shell applications besides Bash are C shell, Z shell and so on...
+What is console?
+Console is a special terminal that starts when no GUI was installed. You start a terminal in a graphical interface, but console in a text-only interface.
+
+
