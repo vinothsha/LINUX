@@ -1,0 +1,25 @@
+Shortcut keys in Linux Terminal
+Similar to other operating systems, Linux also has a shortcut keys to perform certain operations.
+Here, we are going to see about basic Linux shortcut keys that are used in Linux Terminal.
+CTRL + L --> Clears the current Terminal session. Similar to executing the "clear" command.
+
+CTRL + D --> Exits the current Terminal session. Similar to executing the "exit" command.
+
+CTRL + U --> Clear the current line. Similar to executing the backspace key.
+
+CTRL + A --> Moves to the Beginning of the line.
+
+CTRL + E --> Moves to the End of the Line.
+
+CTRL + C --> Terminates the current running process.
+
+ CTRL + Z --> To Pause the running process.
+
+CTRL + ALT + T --> Open a new Terminal Window.
+
+CTRL + Shift + T --> Open a new Tab in the current Terminal Window
+
+CTRL + Shift +  W --> To close the Current Terminal Tab.
+
+CTRL + Shift +  Q --> To close the Current Terminal Window.
+
