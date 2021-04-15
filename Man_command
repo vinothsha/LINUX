@@ -1,0 +1,35 @@
+https://networkspotin.blogspot.com/2020/12/getting-started-with-man-command-in.html
+
+What is Man Command:
+    Man (Man represents manual) Command is Linux functionality that helps you to give information on how to use any specific command.
+
+Types of command in Linux:
+Executable commands
+In-built Shell Commands
+
+Man command is applicable only to the Executable commands. 
+Below is an example of Executable commands. "ls" and "df" are executable commands.
+
+In-built shell command. "cd" is an In-built shell command.
+
+Now, lets see how man command related info in executable command.
+command: man -ls  
+
+In order to quit from the output displayed on executing the man command. press q to quit.
+
+Name: Indicates the purpose of the mentioned command. Here, in this case we are using the ls command.
+
+Synopsis: Indicates how this command can be used  [ls [OPTION]... [FILE]...]. The three dots after the Option and File indicates that option and file information can used any number of times.
+Moving Keys in man page:
+Arrow keys are used to move up and down while using man command.
+CTRL + F --> Forward one man page. Space can also be used.
+CTRL + B --> Backward one page.
+g --> to go the top of man page
+G --> to go the bottom of man page
+Find/filter a word in man page.
+Filter from Top to Bottom:
+Go to top of the man page by using the command g.
+Then, execute a command followed by /. (Example: /--all )
+
+Once the above command executed, if the filtered keyword is available in that particular man page, then that key word will be greyed as below.
+https://networkspotin.blogspot.com/2020/12/getting-started-with-man-command-in.html
